@@ -129,7 +129,7 @@ body {
   
   #topbar .contact-info a {
     line-height: 1;
-    color: #666;
+    color: #ffffff;
     transition: 0.3s;
   }
   
@@ -166,7 +166,7 @@ body {
   # Header
   --------------------------------------------------------------*/
   #header {
-    background:#666;
+    background:#ffffff;
     transition: all 0.5s;
     z-index: 997;
     padding-top: 5px;}
@@ -1597,7 +1597,7 @@ body {
   
   
   #flipkart-navbar {
-    background-color: #666666;
+    background-color: #ffffff;
     color: #FFFFFF;
     padding-top: 0px;
   }
@@ -1699,7 +1699,7 @@ body {
   }
   
   .links {
-    color: #fff;
+    color: #760707;
     text-decoration: none;
   }
   
@@ -2067,8 +2067,9 @@ body {
   
   img.img-logo-nav {
     padding: 0px;
-    width: 80%;
+    width: 200%;
     padding-bottom: 10px;
+    padding-top: 10px;
   }
   
   section.banner {
